@@ -2,4 +2,4 @@ This project adds a UITabBar to a NavigationController Application. With this te
 
 To install this template, unzip the contents to <strong>/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/</strong>
 
-<center><img src="http://www.wrightscs.com/content/uploads/tabnav/uitabbarnav.png"></center>
+<div align="center"><img src="http://www.wrightscs.com/content/uploads/tabnav/uitabbarnav.png"></div>
